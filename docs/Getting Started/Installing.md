@@ -1,6 +1,7 @@
 ---
 title: Installing Yags
 description: A guide to install yags on your system.
+sidebar_position: 1
 ---
 
 # Requirements
