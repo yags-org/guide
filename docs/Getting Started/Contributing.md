@@ -1,6 +1,7 @@
 ---
 title: Contributing
 description: Contributing to Yags
+sidebar_position: 2
 ---
 
 Thanks for considering contributing to Yags!
