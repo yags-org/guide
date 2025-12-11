@@ -18,7 +18,7 @@ Once you created your app, you can edit it's name, description, and avatar here.
 # Getting your app's (bot) token.
 Firstly let's understand, what's a bot token?. A bot token is a password like string that can be used to login in your bot, like you login in your discord account using a email and password. Keep your bot token safe like your account password.
 
-Tokens look like this: NzkyNzE1NDU0MTk2MDg4ODQy.X-hvzA.Ovy4MCQywSkoMRRclStW4xAYK7I (this a example token). If it's any shorter and looks more like this: kxbsDRU5UGAaiO7ar9GFMHSlmTwYaIYn, you copied your client secret instead. Make sure to copy the token if you want your bot to work!
+Tokens look like this: NzkyNzE1NDU0MTk2MDg4ODOy.X-hvzA.Ovy4MCQywSkoMRRclStW4xAYK7I (this a example token). If it's any shorter and looks more like this: kxbsDRU5UGAaiO7ar9GFMHSlmTwYaIYn, you copied your client secret instead. Make sure to copy the token if you want your bot to work!
 
 # What if my token gets leaked?
 Let's imagine that you have a bot on over 1,000 servers, and it took you many, many months of coding and patience to get it on that amount. Your bot's token gets leaked somewhere, and now someone else has it. That person can:
