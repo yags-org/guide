@@ -34,7 +34,7 @@ And if your token gets leaked, don't worry just reset it from the developer port
 
 After creating a bot user, you'll see a section like this:
 
-![The Image of Developer Portal]([image-url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnukxlfGV_eEAd49UqQi1hxprdjl0uJD0eio0YmkBtKQ&s=10))
+![image-url](pathname://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnukxlfGV_eEAd49UqQi1hxprdjl0uJD0eio0YmkBtKQ&s=10)
 
 In this panel, you can give your bot a avatar, set its username, and make it public or private. Your bot's token will be revealed when you press the "Reset Token" button and confirm. When we ask you to paste your bot's token somewhere, this is the value that you need to put in. If you happen to lose your bot's token at some point, you need to come back to this page and reset your bot's token again which will reveal the new token, invalidating all old ones.
 
