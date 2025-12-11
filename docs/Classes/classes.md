@@ -2,6 +2,7 @@
 title: Clases
 sidebar_label: Classes
 description: Classes
+sidebar_position: 4
 ---
 
 ## Classes
@@ -19,7 +20,7 @@ Any class related to "Voice" wont work with Yags, as voice is not supported.
 - [Client](https://abal.moe/Eris/docs/0.18.0/Client)
 - [Collection](https://abal.moe/Eris/docs/0.18.0/Collection)
 - [Command](https://abal.moe/Eris/docs/0.18.0/Command)
-- [CommandClient](https://abal.moe/Eris/docs/0.18.0/CommandClient]
+- [CommandClient](https://abal.moe/Eris/docs/0.18.0/CommandClient)
 - [CommandInteraction](https://abal.moe/Eris/docs/0.18.0/CommandInteraction)
 - [ComponentInteraction](https://abal.moe/Eris/docs/0.18.0/ComponentInteraction)
 - [DMChannel](https://abal.moe/Eris/docs/0.18.0/DMChannel)
